@@ -1,0 +1,14 @@
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\bin\Debug\net6.0\ExerciseCsharp.exe
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\bin\Debug\net6.0\ExerciseCsharp.deps.json
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\bin\Debug\net6.0\ExerciseCsharp.runtimeconfig.json
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\bin\Debug\net6.0\ExerciseCsharp.dll
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\bin\Debug\net6.0\ExerciseCsharp.pdb
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\obj\Debug\net6.0\ExerciseCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\obj\Debug\net6.0\ExerciseCsharp.AssemblyInfoInputs.cache
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\obj\Debug\net6.0\ExerciseCsharp.AssemblyInfo.cs
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\obj\Debug\net6.0\ExerciseCsharp.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\obj\Debug\net6.0\ExerciseCsharp.dll
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\obj\Debug\net6.0\refint\ExerciseCsharp.dll
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\obj\Debug\net6.0\ExerciseCsharp.pdb
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\obj\Debug\net6.0\ExerciseCsharp.genruntimeconfig.cache
+C:\Projects\csharp\ExerciseCsharp\ExerciseCsharp\obj\Debug\net6.0\ref\ExerciseCsharp.dll
